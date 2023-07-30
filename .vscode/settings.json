@@ -1,0 +1,3 @@
+{
+  "rust-analyzer.linkedProjects": ["./general-concepts-2/Cargo.toml"]
+}
