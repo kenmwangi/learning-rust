@@ -1,5 +1,9 @@
 [package]
+<<<<<<<< HEAD:ownership-3/Cargo.toml
 name = "ownership-3"
+========
+name = "variables-immutability-2"
+>>>>>>>> 2-variables:variables-immutability-2/Cargo.toml
 version = "0.1.0"
 edition = "2021"
 
